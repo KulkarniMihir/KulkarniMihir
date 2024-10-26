@@ -1,6 +1,6 @@
-# 💼 [Your Name] - GitHub Portfolio
+# 💼 [Mihir Kulkarni] 
 
-Welcome to my GitHub portfolio! I’m [Your Name], a [Your Job Title, e.g., Software Developer, Data Scientist, etc.] passionate about [your field of interest, e.g., building scalable web applications, data analysis, machine learning, etc.]. This repository showcases a selection of my work, projects, and achievements in tech.
+Welcome to my GitHub portfolio! I’m [Mihir], a [Data Scientist] experienced in building end to end scalable AI/ML solutions. I'm passionate about [Scalable ML Systems, Data Science & GenAI]. This repository showcases a selection of my work, projects, and achievements in tech.
 
 ---
 
