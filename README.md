@@ -17,7 +17,7 @@ Currently driving innovation and specializing in crafting end-to-end AI/ML solut
 <p>
 <a href="https://www.linkedin.com/in/mihirrkulkarni/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat" alt="LinkedIn" height="30" /></a>
 <a href="mailto:mikukulkarni@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=flat" alt="Gmail" height="30" /></a>
-<a href="Your Resume URL"><img src="https://img.shields.io/badge/-Resume-000000?logo=pdf&logoColor=white&style=flat" alt="Resume" height="30" /></a>
+<a href="https://drive.google.com/file/d/1SP2lRmsa1kWVwHSH0tumtyUIaOzAED9G/view?usp=sharing"><img src="https://img.shields.io/badge/-Resume-000000?logo=pdf&logoColor=white&style=flat" alt="Resume" height="30" /></a>
 <a href="https://www.kaggle.com/kulkarnimihir17"><img src="https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white&style=flat" alt="Kaggle" height="30" /></a>
 <a href="https://leetcode.com/u/KulkarniMihir/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat" alt="LeetCode" height="30" /></a>
 </p>
