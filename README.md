@@ -68,22 +68,9 @@ Currently driving innovation and specializing in crafting end-to-end AI/ML solut
 <img src="https://img.shields.io/badge/-Ollama-FFFFFF?style=flat" alt="Ollama" height="20" />
 </p>
 
-**Cloud (AWS):**  
+**Cloud & MLOps:**  
 <p>
 <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white&style=flat" alt="AWS" height="20" />
-<img src="https://img.shields.io/badge/-S3-569A31?logo=amazon-s3&logoColor=white&style=flat" alt="S3" height="20" />
-<img src="https://img.shields.io/badge/-EC2-FF9900?logo=amazon-ec2&logoColor=white&style=flat" alt="EC2" height="20" />
-<img src="https://img.shields.io/badge/-SageMaker-FF9900?logo=amazon-sagemaker&logoColor=white&style=flat" alt="SageMaker" height="20" />
-<img src="https://img.shields.io/badge/-Lambda-FF9900?logo=amazon-lambda&logoColor=white&style=flat" alt="Lambda" height="20" />
-<img src="https://img.shields.io/badge/-EKS-232F3E?logo=amazon-eks&logoColor=white&style=flat" alt="EKS" height="20" />
-<img src="https://img.shields.io/badge/-ECR-232F3E?logo=amazon-ecr&logoColor=white&style=flat" alt="ECR" height="20" />
-<img src="https://img.shields.io/badge/-SQS-232F3E?logo=amazon-sqs&logoColor=white&style=flat" alt="SQS" height="20" />
-<img src="https://img.shields.io/badge/-DynamoDB-4053D6?logo=amazon-dynamodb&logoColor=white&style=flat" alt="DynamoDB" height="20" />
-<img src="https://img.shields.io/badge/-CloudWatch-4053D6?logo=amazon-cloudwatch&logoColor=white&style=flat" alt="CloudWatch" height="20" />
-</p>
-
-**MLOps:**  
-<p>
 <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" alt="Docker" height="20" />
 <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" alt="Kubernetes" height="20" />
 <img src="https://img.shields.io/badge/-CI/CD-FFCA28?style=flat" alt="CI/CD" height="20" />
